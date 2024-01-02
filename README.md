@@ -1,4 +1,13 @@
 - 👋 Hi, I’m @Ajay-gupta-2003
-- 👀 I’m  I’m interested in doing data analytics/science projects
-- 🌱  I’m currently learning sql, python, data analysis
-- 
+
+- 🌱Currently Learning
+  
+.🐍 Python
+-📊 Data Analysis and Visualization
+-📈 Sql
+
+.🚀 Skills
+-Languages: Python, SQL
+-Tools/Frameworks: Pandas, NumPy,Jupyter Notebooks
+-Database: SQL
+-Version Control: GitHub
