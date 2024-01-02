@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Ajay-gupta-2003
 - 👀 I’m  I’m interested in doing data analytics/science projects
+
+
 🌱  I’m currently learning sql, python, data analysis
 - 
 <!---
