@@ -10,7 +10,7 @@
 
 .🚀 Skills
 
--Languages: Python, SQL ,java ,html
+-Languages: Python, SQL ,java ,html, machine learning
 
 -Tools/Frameworks: Pandas, NumPy,Jupyter Notebooks
 
